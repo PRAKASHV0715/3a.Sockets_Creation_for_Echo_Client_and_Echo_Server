@@ -1,4 +1,4 @@
-<img width="916" height="375" alt="image" src="https://github.com/user-attachments/assets/87b5e2b9-ec75-49b4-bece-505c5abfe045" /># 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+# 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
